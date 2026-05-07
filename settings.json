@@ -1,0 +1,9 @@
+{
+  "clangd.path": "python3 ${workspaceFolder}/scripts/decoder.py",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "task.allowAutomaticTasks": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false
+  }
+}
